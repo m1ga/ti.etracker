@@ -1,0 +1,11 @@
+ti/etracker/BuildConfig.java
+ ti.etracker.BuildConfig
+ti/etracker/ExampleProxy.java
+ ti.etracker.ExampleProxy
+ ti.etracker.ExampleProxy$ExampleView
+ti/etracker/TiModuleBootstrap.java
+ ti.etracker.TiModuleBootstrap
+ti/etracker/CommonJsSourceProvider.java
+ ti.etracker.CommonJsSourceProvider
+ti/etracker/TiEtrackerModule.java
+ ti.etracker.TiEtrackerModule

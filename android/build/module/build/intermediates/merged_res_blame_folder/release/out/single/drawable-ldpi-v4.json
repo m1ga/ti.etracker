@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/miga/dev/ti.etracker/android/build/module/build/intermediates/res/merged/release/drawable-ldpi-v4/titanium_icon_checkmark.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/dca653fb896d29866a3d3419a79c0602/jetified-titanium-9.3.2/res/drawable-ldpi-v4/titanium_icon_checkmark.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.etracker/android/build/module/build/intermediates/res/merged/release/drawable-ldpi-v4/titanium_icon_delete.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/dca653fb896d29866a3d3419a79c0602/jetified-titanium-9.3.2/res/drawable-ldpi-v4/titanium_icon_delete.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.etracker/android/build/module/build/intermediates/res/merged/release/drawable-ldpi-v4/titanium_icon_drag.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/dca653fb896d29866a3d3419a79c0602/jetified-titanium-9.3.2/res/drawable-ldpi-v4/titanium_icon_drag.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.etracker/android/build/module/build/intermediates/res/merged/release/drawable-ldpi-v4/titanium_icon_disclosure.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/dca653fb896d29866a3d3419a79c0602/jetified-titanium-9.3.2/res/drawable-ldpi-v4/titanium_icon_disclosure.png"
+    },
+    {
+        "merged": "/home/miga/dev/ti.etracker/android/build/module/build/intermediates/res/merged/release/drawable-ldpi-v4/titanium_icon_more.png",
+        "source": "/home/miga/.gradle/caches/transforms-2/files-2.1/dca653fb896d29866a3d3419a79c0602/jetified-titanium-9.3.2/res/drawable-ldpi-v4/titanium_icon_more.png"
+    }
+]
